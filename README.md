@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jamesmclaren/Aware%20iPAAS/_apis/build/status/yeaharh.js-e2e-express-server?branchName=azure-pipelines)](https://dev.azure.com/jamesmclaren/Aware%20iPAAS/_build/latest?definitionId=11&branchName=azure-pipelines)
 ---
 page_type: sample
 languages:
